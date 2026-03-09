@@ -1,8 +1,4 @@
-# 🎬 ALLURA Studio
-
-**AI-Powered Video Editor for Content Creators**
-
-Professional video editing made simple for YouTubers, TikTokers, streamers, and all content creators.
+# 🎬 ALLURA
 
 > **🎮 Currently Available: Gaming Studio Edition**  
 > *More creator studios (Travel, Beauty, Tech, etc.) coming soon!*
