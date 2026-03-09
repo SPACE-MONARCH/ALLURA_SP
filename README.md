@@ -5,20 +5,6 @@
 
 ---
 
-## 🚀 Quick Start
-
-git clone https://github.com/nightfury12901/ALLURA.git
-cd ALLURA/VideoEditor
-
-npm install
-npm run dev
-
-text
-
-Open `http://localhost:3000` and start creating!
-
----
-
 ## ✨ Features
 
 **🎯 For All Creators:**
